@@ -104,6 +104,6 @@ document.addEventListener('DOMContentLoaded', function () {
     console.log(bee);
     console.log(eagle);
 
-
+    console.log('test');
 
 }, false);
